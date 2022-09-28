@@ -20,7 +20,7 @@ package lineageos.content;
 import android.Manifest;
 
 /**
- * LineageOS specific intent definition class.
+ * PalyrimOS specific intent definition class.
  */
 public class Intent {
 

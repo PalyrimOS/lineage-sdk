@@ -58,7 +58,7 @@ android_app {
     export_package_resources: true,
 }
 
-// The LineageOS Platform Framework Library
+// The PalyrimOS Platform Framework Library
 // ============================================================
 
 lineage_sdk_src = "sdk/src/java/lineageos"
