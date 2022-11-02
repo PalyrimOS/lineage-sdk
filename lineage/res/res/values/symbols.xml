@@ -180,4 +180,8 @@
 
     <!-- Wether to handle audio direction changes between major call states -->
     <java-symbol type="bool" name="config_handleAudioDirectionChangesBetweenCallStateChanges" />
+    
+    <!-- Camera -->
+    <java-symbol type="array" name="config_cameraAuxPackageAllowList" />
+    <java-symbol type="array" name="config_cameraAuxPackageExcludeList" />
 </resources>
